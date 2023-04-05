@@ -1,4 +1,6 @@
-﻿namespace Macrodistrito
+﻿using System;
+
+namespace Macrodistrito
 {
     internal class Program
     {
@@ -9,9 +11,16 @@
             Macrotdistrito m3 = new Macrotdistrito("cotahuma");
             Macrotdistrito m4 = new Macrotdistrito("macro1");
             Macrotdistrito m5 = new Macrotdistrito("macro2");
-            m1.zonaX("portada");
-            m1.totalHabitantes();
-            m1.agregarHabitantes(1234,"centro");
+            // SOBRECARGA DE METODOS
+            m1.calcular("portada");
+            m1.calcular();
+            m1.calcular(1234,"centro");
+            // SOBRECARGA DE OPERADORES
+            String zonaX = "centro";
+            Console.WriteLine(m1+zonaX);
+            m1--;
+            int habitantesNuevos = 24124;
+            Console.WriteLine(m1*habitantesNuevos);
         }
     }
 }
