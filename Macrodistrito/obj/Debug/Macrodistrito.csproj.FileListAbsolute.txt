@@ -1,0 +1,7 @@
+C:\Users\PABEL\RiderProjects\Macrodistrito\Macrodistrito\bin\Debug\Macrodistrito.exe
+C:\Users\PABEL\RiderProjects\Macrodistrito\Macrodistrito\bin\Debug\Macrodistrito.pdb
+C:\Users\PABEL\RiderProjects\Macrodistrito\Macrodistrito\obj\Debug\Macrodistrito.csproj.AssemblyReference.cache
+C:\Users\PABEL\RiderProjects\Macrodistrito\Macrodistrito\obj\Debug\Macrodistrito.csproj.SuggestedBindingRedirects.cache
+C:\Users\PABEL\RiderProjects\Macrodistrito\Macrodistrito\obj\Debug\Macrodistrito.csproj.CoreCompileInputs.cache
+C:\Users\PABEL\RiderProjects\Macrodistrito\Macrodistrito\obj\Debug\Macrodistrito.exe
+C:\Users\PABEL\RiderProjects\Macrodistrito\Macrodistrito\obj\Debug\Macrodistrito.pdb
